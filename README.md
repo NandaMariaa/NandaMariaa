@@ -80,7 +80,7 @@ Possuo projetos independentes desenvolvidos em Java e experiência acadêmica co
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandaMariaa&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandaMariaa&theme=synthwave&size_weight=0.5&count_weight=0.5&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
 </p>
