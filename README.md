@@ -46,24 +46,24 @@ Possuo projetos independentes desenvolvidos em Java e experiência acadêmica co
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="MySql" 
+    title="MySql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="SqlAzure" 
+    title="SqlAzure"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Swift" 
+    title="Swift"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
