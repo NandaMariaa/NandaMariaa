@@ -14,12 +14,22 @@ Possuo projetos independentes desenvolvidos em Java e experiência acadêmica co
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+
+<img 
+    align="left" 
+    alt="python"
+    title="python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -28,6 +38,7 @@ Possuo projetos independentes desenvolvidos em Java e experiência acadêmica co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -36,6 +47,7 @@ Possuo projetos independentes desenvolvidos em Java e experiência acadêmica co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -44,6 +56,7 @@ Possuo projetos independentes desenvolvidos em Java e experiência acadêmica co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
 <img 
     align="left" 
     alt="MySql" 
@@ -52,6 +65,7 @@ Possuo projetos independentes desenvolvidos em Java e experiência acadêmica co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
 <img 
     align="left" 
     alt="SqlAzure" 
@@ -60,14 +74,16 @@ Possuo projetos independentes desenvolvidos em Java e experiência acadêmica co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Swift" 
-    title="Swift"
+    alt="oracle" 
+    title="oracle"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
+
 
 <br/>
 <br/>
