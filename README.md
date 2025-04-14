@@ -2,7 +2,7 @@
 
 **`Sobre Mim 👩🏻‍🎓`**
 
-Me chamo Maria Fernanda, tenho 16 anos e moro na cidade de São Paulo. Atualmente, estou cursando o terceiro período em Analise e Desenvolvimento de Sistemas no instituto Senac Nações Unidas.  Embora eu tenha escolhido seguir pelo caminho de carreira da programação, também possuo alguns outros cursos técnicos na área de tecnologia. Entre eles estão: Manutenção de Hardware e Redes de Computadores, ambos concluídos na mesma instituição. 
+Me chamo Maria Fernanda, tenho 19 anos e moro na cidade de São Paulo. Atualmente, estou cursando o terceiro período em Analise e Desenvolvimento de Sistemas no instituto Senac Nações Unidas.  Embora eu tenha escolhido seguir pelo caminho de carreira da programação, também possuo alguns outros cursos técnicos na área de tecnologia. Entre eles estão: Manutenção de Hardware e Redes de Computadores, ambos concluídos na mesma instituição. 
 
 **`Experiências 👩🏻‍💻`**
 
